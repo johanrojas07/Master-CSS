@@ -1,0 +1,32 @@
+@font-face {
+    font-family: MonserratFuenteCustom;
+    src: url(Fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    font-style: 45px;
+
+    /*Colores*/
+    /*Colores del sistema*/
+    color: mediumpurple;
+    /*Colores Hexadecimales*/
+    color: #eeeeee;
+    /*Colores RGB*/
+    /*Colores RGBA*/
+}
+
+h3 {
+    font-family: MonserratFuenteCustom "Comic Sans MS" ;
+    font-size: 35px;
+    font-weight: lighter;
+    color: olive;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
